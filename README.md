@@ -1,6 +1,6 @@
 # Proyecto Final gnubies-GLUD
 
-Este repositorio nace con el fin de compartir el procedimeinto utilizado para para la Creación de la Distribución GnubieX , la guia utilizada se muestra en el archivo GnubieX.pdf , el docuemnto fue realizado en Latex.
+Este repositorio nace con el fin de compartir el procedimeinto utilizado para para la Creación de la Distribución GnubieX , la guia utilizada se muestra en el archivo GnubieX.pdf , el documento fue realizado en Latex.
 
 ![](https://gitlab.com/mafuentesr/proyecto-final-gnubies/-/raw/main/SplashScreen/logo.png)
 
