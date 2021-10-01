@@ -15,8 +15,22 @@ GnubieX  es una distro personalizada basada en Xubuntu20.04, esta distribución 
 ## Licencia
 El proyecto es de uso libre y cuenta con licencia GNU Affero General Public License v3.0.
 
-##Imagenes del Sistema : 
+## Imagenes del Sistema : 
+Grub de Arranque personalizado en Dual Boot Windows 10 : 
 
+![](https://gitlab.com/mafuentesr/proyecto-final-gnubies/-/raw/main/Imagenes%20Del%20Sistema/Grub.jpg)
+
+Splash Screen ( Pantalla de Carga ) : 
+
+![](https://gitlab.com/mafuentesr/proyecto-final-gnubies/-/raw/main/Imagenes%20Del%20Sistema/SplashScreen.jpg)
+
+Pantalla de Login del Usuario : 
+
+![](https://gitlab.com/mafuentesr/proyecto-final-gnubies/-/raw/main/Imagenes%20Del%20Sistema/Login.jpg)
+
+Escritorio  : 
+
+![](https://gitlab.com/mafuentesr/proyecto-final-gnubies/-/raw/main/Imagenes%20Del%20Sistema/escritorio.png)
 
 ## Autores : 
 Los Autores del proyecto son : 
